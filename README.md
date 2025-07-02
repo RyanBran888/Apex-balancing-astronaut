@@ -2,7 +2,7 @@
 apex! apex! apex! space! yayayayaya! yippeee! space robot!!!!
 
 # what is it????????
-its a robot! that balances a ball on a plate, the goal is for the robot (who is going up on a weather balloon) to balance a ball on his plate without it falling off, despite the twisty and turny actions of the balloon
+its a robot! that balances a ball on a plate, the goal is for the robot (who is going up on a weather balloon) to balance a ball on his plate without it falling off, despite the twisty and turny actions of the balloon. Using a gyro sensor it dectects the tilt of the robot and tells a servo to move in the opposite direction as the gyuro is tilted to balance out the rotation. Two servos are used, one for foward and backword motion, and then one for left and right motion. 
 
 # what we needed to do it
   a raspberry pico to hold our code
